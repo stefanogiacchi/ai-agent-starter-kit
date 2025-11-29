@@ -170,57 +170,32 @@ dotnet run --project src/API
 ```
 
 📄 Documentation
-
 Under /docs:
-
-Architecture diagrams
-
-Multi-agent orchestration flows
-
-Prompt engineering templates
-
-Best practices for enterprise adoption
-
-Plugin development guidelines
+- Architecture diagrams
+- Multi-agent orchestration flows
+- Prompt engineering templates
+- Best practices for enterprise adoption
+- Plugin development guidelines
 
 🌐 Use Cases Included
-
 Automated data research & summarization
-
-Report generation
-
-Workflow automation
-
-Document processing
-
-Autonomous chaining of tasks
-
-Multi-agent collaboration
+- Report generation
+- Workflow automation
+- Document processing
+- Autonomous chaining of tasks
+- Multi-agent collaboration
 
 🧪 Tests
-
 Agent testing is provided using:
-
-xUnit
-
-FluentAssertions
-
-Test Double Services
+- xUnit
+- FluentAssertions
+- Test Double Services
 
 🤝 Contributions
-
 Suggestions and improvements are welcome — especially around:
-
-new agent archetypes
-
-plugin integrations
-
-orchestration strategies
+- new agent archetypes
+- plugin integrations
+- orchestration strategies
 
 📜 License
-
 MIT License.
-
-
-
-
